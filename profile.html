@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Profile</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body onload="loadProfile()">
+
+<h2>Your Profile</h2>
+
+<div class="profile-actions">
+    <button onclick="logout()">Logout</button>
+    <button onclick="uploadImage()">Upload</button>
+</div>
+
+<h3>Upload Artwork</h3>
+<input type="file" accept="image/*" id="imageUpload">
+
+<h3>Your Gallery</h3>
+<div id="myGallery" class="masonry"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
