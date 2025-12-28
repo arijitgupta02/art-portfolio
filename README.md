@@ -24,11 +24,10 @@ Features
 Built With
 ----------
 
-------------------------------------------------
 |Technology	         |Purpose|
-------------------------------------------------
+|--------------------|--------------------------|
 |HTML5	             |Structure & pages|
 |CSS3	               |Styling, responsive layout|
 |JavaScript(ES6) 	   |Auth + image handling logic|
 |LocalStorage	       |Save users & artworks|
---------------------------------------------------
+
