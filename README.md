@@ -1,25 +1,28 @@
-🎨 Creative Showcase — Art Portfolio Web App
+Creative Showcase — Art Portfolio Web App
+------------------------------------------
 
 A creative portfolio website where users can sign up, log in, upload and showcase artwork/images.
 It features a clean UI, responsive gallery layout and uses localStorage for user data and image storage, making it lightweight and beginner-friendly.
 
-✨ Features
+Features
+---------
 
-🔐 User Authentication (Signup & Login)
+1> User Authentication (Signup & Login)
 
-📸 Upload and display artwork
+2> Upload and display artwork
 
-🖼 Masonry gallery layout
+3> Masonry gallery layout
 
-👤 Personal profile page
+4> Personal profile page
 
-🌍 Public user showcase (/profile/[username])
+5> Public user showcase (/profile/[username])
 
-📱 Fully responsive design
+6> Fully responsive design
 
-💾 No database needed — images stored in browser localStorage
+7> No database needed — images stored in browser localStorage
 
-🛠 Built With
+Built With
+----------
 Technology	       Purpose
 HTML5	             Structure & pages
 CSS3	             Styling, responsive layout
